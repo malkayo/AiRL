@@ -1,0 +1,2 @@
+include *.py *.png
+recursive-include airl *.png
